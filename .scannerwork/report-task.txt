@@ -1,0 +1,7 @@
+organization=moonlay-github
+projectKey=jp-md-customhome
+serverUrl=https://sonarcloud.io
+serverVersion=8.0.0.4927
+dashboardUrl=https://sonarcloud.io/dashboard?id=jp-md-customhome
+ceTaskId=AXB23whZLvMHsyL0vuun
+ceTaskUrl=https://sonarcloud.io/api/ce/task?id=AXB23whZLvMHsyL0vuun
